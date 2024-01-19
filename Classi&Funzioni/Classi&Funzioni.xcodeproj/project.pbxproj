@@ -16,6 +16,7 @@
 		706AEEE72B59D5EA005C0EFC /* Classi_FunzioniTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706AEEE62B59D5EA005C0EFC /* Classi_FunzioniTests.swift */; };
 		706AEEF12B59D5EA005C0EFC /* Classi_FunzioniUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706AEEF02B59D5EA005C0EFC /* Classi_FunzioniUITests.swift */; };
 		706AEEF32B59D5EA005C0EFC /* Classi_FunzioniUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706AEEF22B59D5EA005C0EFC /* Classi_FunzioniUITestsLaunchTests.swift */; };
+		706AEF012B59F378005C0EFC /* ProvaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 706AEEFF2B59F1E7005C0EFC /* ProvaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		706AEEEC2B59D5EA005C0EFC /* Classi&FunzioniUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Classi&FunzioniUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		706AEEF02B59D5EA005C0EFC /* Classi_FunzioniUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classi_FunzioniUITests.swift; sourceTree = "<group>"; };
 		706AEEF22B59D5EA005C0EFC /* Classi_FunzioniUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classi_FunzioniUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		706AEEFF2B59F1E7005C0EFC /* ProvaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProvaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				706AEED82B59D5EA005C0EFC /* Assets.xcassets */,
 				706AEEDA2B59D5EA005C0EFC /* LaunchScreen.storyboard */,
 				706AEEDD2B59D5EA005C0EFC /* Info.plist */,
+				706AEEFF2B59F1E7005C0EFC /* ProvaViewController.swift */,
 			);
 			path = "Classi&Funzioni";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				706AEED42B59D5E8005C0EFC /* ViewController.swift in Sources */,
 				706AEED02B59D5E8005C0EFC /* AppDelegate.swift in Sources */,
 				706AEED22B59D5E8005C0EFC /* SceneDelegate.swift in Sources */,
+				706AEF012B59F378005C0EFC /* ProvaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
